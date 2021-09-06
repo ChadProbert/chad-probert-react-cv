@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/chad-probert-react-cv/static/css/main.db1a841a.chunk.css",
+    "main.js": "/chad-probert-react-cv/static/js/main.7c3a415d.chunk.js",
+    "main.js.map": "/chad-probert-react-cv/static/js/main.7c3a415d.chunk.js.map",
+    "runtime-main.js": "/chad-probert-react-cv/static/js/runtime-main.f19b1c58.js",
+    "runtime-main.js.map": "/chad-probert-react-cv/static/js/runtime-main.f19b1c58.js.map",
+    "static/css/2.818011ed.chunk.css": "/chad-probert-react-cv/static/css/2.818011ed.chunk.css",
+    "static/js/2.11d8c135.chunk.js": "/chad-probert-react-cv/static/js/2.11d8c135.chunk.js",
+    "static/js/2.11d8c135.chunk.js.map": "/chad-probert-react-cv/static/js/2.11d8c135.chunk.js.map",
+    "index.html": "/chad-probert-react-cv/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/chad-probert-react-cv/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.db1a841a.chunk.css.map": "/chad-probert-react-cv/static/css/main.db1a841a.chunk.css.map",
+    "static/js/2.11d8c135.chunk.js.LICENSE.txt": "/chad-probert-react-cv/static/js/2.11d8c135.chunk.js.LICENSE.txt",
+    "static/media/img11.11ad3eff.jpeg": "/chad-probert-react-cv/static/media/img11.11ad3eff.jpeg",
+    "static/media/me.a19c775e.jpeg": "/chad-probert-react-cv/static/media/me.a19c775e.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f19b1c58.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.11d8c135.chunk.js",
+    "static/css/main.db1a841a.chunk.css",
+    "static/js/main.7c3a415d.chunk.js"
+  ]
+}
